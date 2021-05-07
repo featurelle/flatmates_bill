@@ -1,4 +1,5 @@
+****
 An app for creating bills
-====
+****
 
-Blah-blah bills blah-blah
+This simple app calculates how much every flatmate should pay this month and prints a corresponding PDF-report.
